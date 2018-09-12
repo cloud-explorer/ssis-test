@@ -1,6 +1,6 @@
 USE [LOB_UNWBCA]
 GO
-
+/*Raju Made this change*/
 /****** Object:  Table [dbo].[ActiveCrisisStatus]    Script Date: 9/12/2018 1:24:12 PM ******/
 SET ANSI_NULLS ON
 GO
